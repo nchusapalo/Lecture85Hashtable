@@ -1,0 +1,15 @@
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\bin\Debug\Lecture85Hashtable.exe.config
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\bin\Debug\Lecture85Hashtable.exe
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\bin\Debug\Lecture85Hashtable.pdb
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.csprojAssemblyReference.cache
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\App.g.cs
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable_MarkupCompile.cache
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable_MarkupCompile.lref
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.g.resources
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.Properties.Resources.resources
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.csproj.GenerateResource.cache
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.csproj.CoreCompileInputs.cache
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.exe
+E:\visual studio 2015\Lecture85Hashtable\Lecture85Hashtable\obj\Debug\Lecture85Hashtable.pdb
